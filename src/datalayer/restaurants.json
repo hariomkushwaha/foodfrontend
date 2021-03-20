@@ -1,0 +1,17 @@
+[
+    {"name":"Order","item":"Pizza","price":275},
+    {"name":"Order","item":"Burger","price":175},
+    {"name":"Order","item":"Fries","price":260},
+    {"name":"Order","item":"Deserts","price":145},
+    {"name":"Order","item":"Italian","price":200},
+    {"name":"Order","item":"Icecreams","price":30},
+    {"name":"Order ","item":"Juice","price":60},
+    {"name":"Order","item":"Dosa","price":110},
+    {"name":"Order","item":"Roti","price":35},
+    {"name":"Order","item":"Frankie","price":75},
+    {"name":"Order","item":"Bread","price":25},
+    {"name":"Order","item":"doughnut","price":175},
+    {"name":"Order","item":"naan","price":75},
+    {"name":"Order","item":"cakes","price":375},
+    {"name":"Order","item":"fruits","price":150}
+]
